@@ -1,0 +1,27 @@
+Rick y Morty API
+
+
+Descripción
+Este proyecto es una aplicación web que consume la API de Rick y Morty para mostrar todos los personajes en una cuadrícula organizada de 6 columnas.
+
+
+Tecnologías utilizadas
+* HTML
+* CSS 
+* JavaScript
+
+
+ Funcionalidades
+* Mostrar todos los personajes de la API
+* Organización en cuadrícula 
+* Tarjetas con imagen, nombre, estado y especie
+* Diseño moderno con fondo azul
+
+
+ API utilizada
+
+https://rickandmortyapi.com/
+
+
+Autor
+Nadin Elias Cantillo Gomez
